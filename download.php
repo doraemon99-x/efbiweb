@@ -54,7 +54,7 @@ if (isset($_GET['url'])) {
             background-color: #3498db;
         }
         .thumbnail {
-            width: 100%;
+            width: 75%;
             height: auto;
             max-width: 400px;
             margin-bottom: 20px;
