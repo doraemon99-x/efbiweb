@@ -55,7 +55,7 @@ if (isset($_GET['url'])) {
         }
         .thumbnail {
             width: 75%;
-            height: auto;
+            height: 75%;
             max-width: 400px;
             margin-bottom: 20px;
         }
